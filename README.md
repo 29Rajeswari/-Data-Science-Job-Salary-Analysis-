@@ -6,7 +6,7 @@ An interactive Tableau dashboard that analyzes global Data Science job salaries 
 
 ## 📸 Dashboard Preview
 
-![Data Science Job Salary Analysis](https://raw.githubusercontent.com/29Rajeswari/YOUR_REPO_NAME/main/DataScience_Job_Salary.png)
+![Data Science Job Salary Analysis](https://github.com/29Rajeswari/-Data-Science-Job-Salary-Analysis-/blob/main/DataScience%20Job%20Salary.png))
 
 ---
 
